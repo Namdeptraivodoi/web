@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+body {
+	color: white;
+}
+h3 {
+
+
+	text-align: center;
+
+	color: black;
+	font-size:70px;
+	 font-weight: bold;
+	 border-style: solid;
+}
+ h5 {
+text-align: center;
+	font-size:30px;
+
+	 border-style: solid;
+}
+
+.card-title:hover{
+
+	 background-color: #575c58;
+}
+h3:hover{
+	 background-color: #575c58;
+}
